@@ -1,0 +1,35 @@
+/*
+.img-size {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+div[class^='col-'] {
+    border: 5px solid white;
+}*/
+
+.bg-fondo {
+    background-color: antiquewhite;
+}
+
+.bg-qs{
+    background-color: rgb(253, 194, 206);
+}
+
+.bg-mision{
+    background-color: rgb(225, 247, 216);
+}
+
+.bg-vision{
+    background-color: rgb(250, 183, 183);
+}
+
+.bg-objetivos{
+    background-color: rgb(223, 246, 253);
+}
+
+.btn-ingresar{
+    background-color: rgb(129, 196, 129);
+}
